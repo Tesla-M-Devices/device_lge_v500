@@ -36,5 +36,3 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 12071206912 # 11512M
 
 # inherit from the proprietary version
 -include vendor/lge/v500/BoardConfigVendor.mk
-Contact GitHub API Training Shop Blog About
-
